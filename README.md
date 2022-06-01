@@ -1,4 +1,5 @@
 ![logo](./static/cyberlux-logo.jpg?raw=true "CYBERSECURITY Luxembourg")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSteveClement%2Fopenxeco-core.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSteveClement%2Fopenxeco-core?ref=badge_shield)
 
 <table>
 <tr>
@@ -129,3 +130,7 @@ To set up the production instance, please see this file:
 # Good practice for developers
 
 TODO
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSteveClement%2Fopenxeco-core.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSteveClement%2Fopenxeco-core?ref=badge_large)
